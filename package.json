@@ -17,6 +17,7 @@
     "express-jwt": "^6.1.0",
     "express-validator": "^6.13.0",
     "jsonwebtoken": "^8.5.1",
+    "mailgun-js": "^0.22.0",
     "mongoose": "^6.0.11"
   }
 }
